@@ -6,6 +6,7 @@ if [ `git branch --show-current` = "main" ]; then
     rm docker-compose.yml
     rm Dockerfile
     rm print-pdf.sh
+    rm cleanup.sh
 fi
 
 
