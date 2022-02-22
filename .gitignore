@@ -134,3 +134,4 @@ dmypy.json
 .config/
 .jupyter/
 .wget-hsts
+.Trash*
